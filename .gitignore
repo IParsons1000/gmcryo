@@ -1,0 +1,14 @@
+**.aux
+**.bbl
+**.bcf
+**.blg
+**.fdb_latexmk
+**.fls
+**.log
+**.out
+**.pdf*
+**.run.xml
+**.synctex.gz
+**.dvi
+**.docx
+**/.DS_Store
